@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Crawl-Delay: 20
-
-sitemap: https://rahilsha25.github.io/agro-farm/sitemap.xml
